@@ -1,0 +1,27 @@
+{
+  "name": "modal_j",
+  "authors": [
+    "ark1ee <onlyarter@gmail.com>"
+  ],
+  "description": "modal plugin for Jquery and Bootstrap.",
+  "main": "modal_j.js",
+  "keywords": [
+    "modal",
+    "jquery",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "http://arkphp.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.1",
+    "bootstrap":""
+  },
+  "version": "0.1.0"
+}
